@@ -1,4 +1,4 @@
-These files contain a problem based on input function in python programming language
+These files contain two problems based on input function in python programming language
 Here is the questions:
 q.1
 Write a Python program that does the following:
